@@ -394,6 +394,3 @@ This project demonstrates practical experience with:
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
----
-
-⭐ If you found this project useful, consider giving the repository a **star**.
